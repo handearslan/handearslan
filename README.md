@@ -3,7 +3,7 @@
    
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hande-arslan-b7ab59180/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hande-arslan/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=quare&labelColor=000&logo=Medium&logoColor=white&link=link)](https://medium.com/@handearslan) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handearslan&theme=algolia&show_icons=true) </h2>
