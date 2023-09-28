@@ -22,6 +22,12 @@
      <a href=''>
         <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
      </a>    
+   <a href=''>
+        <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white' />
+     </a>  
+   <a href=''>
+        <img src='https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white' />
+     </a>
      <a href=''>
         <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
      </a> 
@@ -29,13 +35,9 @@
         <img src='https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green' />
      </a> 
      <a href=''>
-        <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' />
-     </a> 
-     <a href=''>
         <img src='https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white' />
      </a> 
-     <a href=''>
-        <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white' />
-     </a> 
+      
+     
    
 </p>
