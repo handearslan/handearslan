@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hande 👋</h1>
-- 🌱 I’m currently learning Kotlin,Java
+- 🌱 I’m currently learning Java,Kotlin
    
 <h3 align="left">Connect with me:</h3>
 
